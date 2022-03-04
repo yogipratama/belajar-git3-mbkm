@@ -1,1 +1,2 @@
 Ini file1.txt
+menambahkan teks pada file1.txt
